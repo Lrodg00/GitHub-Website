@@ -10,9 +10,11 @@ Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University
 - I have one older brother named Luke.
 
 
-### Jekyll Themes
+### Hobbies
+- Enjoy the outdoors.
+- Love to fish and golf.
+- Spend time with family and frinds.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lrodg00/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
