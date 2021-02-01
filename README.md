@@ -1,10 +1,9 @@
-## My Portfolio
+# My Portfolio
 
 Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University.
 
-### Markdown
+## Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
