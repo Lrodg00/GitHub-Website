@@ -1,4 +1,4 @@
-<h1>My Portfolio<h1/>  
+<h1>My Portfolio</h1>  
 
 Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University.
 
