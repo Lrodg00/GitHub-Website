@@ -16,6 +16,7 @@ Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University
 - Spend time with family and frinds.
 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Phone: (804)-396-8415
+Email: lyrodg59@gmail.com
