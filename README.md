@@ -19,4 +19,4 @@ Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University
 ### Contact
 
 Phone: (804)-396-8415
-Email: lyrodg59@gmail.com
+ Email: lyrodg59@gmail.com
