@@ -10,10 +10,11 @@ Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University
 - I have one older brother named Luke.
 
 
-## Hobbies
-- Enjoy the outdoors.
-- Love to fish and golf.
-- Spend time with family and frinds.
+## What I've Accomplished
+- Successfully created a website.
+- Created my first game: https://lrodg00.github.io/SnakeV2/
+- Completed the first challege for JavaScript
+- partially completed 2D platform game.
 
 
 ## Contact
