@@ -14,7 +14,7 @@ Hello, my name is Lyle Rodgers and I am a ISAT major at James Madison University
 - Successfully created a website.
 - Created my first game: https://lrodg00.github.io/SnakeV2/
 - Completed the first challege for JavaScript
-- partially completed 2D platform game.
+- Partially completed a 2D platform game.
 
 
 ## Contact
